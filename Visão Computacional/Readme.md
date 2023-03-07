@@ -5,4 +5,4 @@
         - Detecção de faces e objetos 
         - Reconhecimento facial
         - Rastreamento de Objetos
-        
+
